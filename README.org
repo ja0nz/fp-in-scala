@@ -2,6 +2,7 @@
 #+title: FP in scala - reading and coding through the book
 #+author: Ja0nz
 #+email: mail@ja.nz
+#+html_link_home: https://github.com/ja0nz/fp-in-scala/blob/main/README.org
 :END:
 :ORGCONFIG:
 #+startup: overview
