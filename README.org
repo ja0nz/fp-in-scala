@@ -1,5 +1,5 @@
 :META:
-#+title: FP in scala
+#+title: FP in scala - reading and coding through the book
 #+author: Ja0nz
 #+email: mail@ja.nz
 :END:
@@ -13,7 +13,6 @@
 - [[#purpose-of-this-repo][Purpose of this repo]]
 
 * Purpose of this repo
-This repo follows loosely along the so-called [[https://www.manning.com/books/functional-programming-in-scala]["redbook"]]. There is probably nothing new, just personal notes on the exercises. The unspoken goal is to bend some exercises into the more abstract [[https://zio.dev/][ZIO]] field which is on my learning list for far too long. We'll see, if I succeed I'll write a blog post about it:)
+This repo follows loosely along the so-called [[https://www.manning.com/books/functional-programming-in-scala]["redbook"]]. There is probably nothing new, just personal notes on the exercises. The unspoken goal is to bend some [[file:exercises/src/main/scala/fpinscala/][exercises]] into the more abstract [[https://zio.dev/][ZIO]] field which is on my learning list for far too long. We'll see, if I succeed I'll write a blog post about it:)
 
-This repo will contain most work from the original repo: [[https://github.com/fpinscala/fpinscala]]
-This repo is written *Scala 2*!
+This repo will contain most work from the original repo: [[https://github.com/fpinscala/fpinscala]]. This repo is written *Scala 2*!
